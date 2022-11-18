@@ -6,7 +6,9 @@ form label{
   font-size: 25px;
 }
 
-table{
+td{
 background:white;
+  border:1px solid #000000;
+  border-color: black;
 }
 
