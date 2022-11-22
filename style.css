@@ -1,11 +1,15 @@
 body{
   background: rgb(215, 178, 232);
 }
+thead {
+background: #555555;
+color: white;
+font-weight: bold;
+}
 form label{
   display: block;
   font-size: 25px;
 }
-
 td{
 background:white;
   border:1px solid #000000;
